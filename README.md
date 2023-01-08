@@ -1,1 +1,1 @@
-visualized machine learning. click screen to train perceptrons classifying themselves on one side of a straight line
+visualized machine learning. click the screen to train perceptrons classifying themselves on one side of a straight line
